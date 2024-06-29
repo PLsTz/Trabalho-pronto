@@ -1,0 +1,18 @@
+﻿body {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #00ff21;
+}
+
+.navbar-item, .navbar-link {
+    color: #fff !important;
+}
+
+.button.is-success {
+    background-color: #00d1b2;
+    border-color: #00d1b2;
+    color: #fff;
+}
